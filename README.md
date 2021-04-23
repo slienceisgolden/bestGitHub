@@ -25,3 +25,7 @@ https://github.com/btcpayserver/btcpayserver - сервер оплаты Бит�
 # Графика:
 
 https://github.com/chartjs/Chart.js - графики
+
+# Прочее:
+
+https://github.com/chill117/proxy-lists
